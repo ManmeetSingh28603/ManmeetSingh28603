@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Deco Design Website**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **C Programming Language**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
