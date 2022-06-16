@@ -1,12 +1,15 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manmeet Singh</h1>
+**<h1> Manmeet Singh </h1>**
 
 ## 🙋‍♂️ About Me
 
+- ⭐ Front End Developer
+
+- 📚Freshman at VIT Chennai doing BTech - CSE Core
+
 - 🔭 I’m currently working on **Deco Design Website**
 
-- 🌱 I’m currently learning **C Programming Language**
+- 🌱 I’m currently learning **Java Programming Language**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -14,22 +17,26 @@
 
 - ⚡ Fun fact **I play games and listen to music very often.**
 
-## 🚀 Languages and Tools:
 
-<p align="left"> 
+## 🚀 Languages I have Used:
+
+<p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.djangoproject.com/"> <img src="https://img.icons8.com/windows/48/000000/django.png"/> </a>
     <a href="https://www.programiz.com/c-programming"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href ="https://www.java.com/en/"> <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
-    <a href = "https://cplusplus.com/"> <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
-    
+    <a href = "https://cplusplus.com/"> <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/> </a>
 </p>
 
-<br/>
+## 🚀 Some of the technologies I have worked with:
+
+<p align="left">
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://www.djangoproject.com/"> <img src="https://img.icons8.com/windows/48/000000/django.png"/> </a>
+    <a href="https://github.com/ManmeetSingh28"> <img src="https://img.icons8.com/fluency-systems-filled/48/undefined/github.png"/> </a>
+</p>
 
 <!-- <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
