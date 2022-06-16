@@ -24,6 +24,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.djangoproject.com/"> <img src="https://img.icons8.com/windows/48/000000/django.png"/> </a>
     <a href="https://www.programiz.com/c-programming"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href ="https://www.java.com/en/"> <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
+    <a href = "https://cplusplus.com/"> <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
+    
 </p>
 
 <br/>
