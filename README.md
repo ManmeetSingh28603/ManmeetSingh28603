@@ -1,22 +1,16 @@
-
-**<h1> Manmeet Singh </h1>**
+# Manmeet Singh
 
 ## 🙋‍♂️ About Me
 
-- ⭐ Front End Developer
+Hello, I’m **Manmeet Singh**, a dedicated and results-driven **Software Developer** specializing in **full-stack web development** and **application design**. Currently, I am pursuing my **B.Tech in Computer Science** at **VIT Chennai**, where I am honing my technical expertise and expanding my knowledge in areas such as machine learning, cloud computing, and AI.
 
-- 📚Freshman at VIT Chennai doing BTech - CSE Core
+I am passionate about building scalable, secure, and user-friendly applications that solve real-world problems. My primary focus is on **developing intuitive web platforms** and **innovative solutions** using modern technologies like **Django**, **React**, and **Python**. I thrive in environments where I can collaborate with like-minded individuals, share knowledge, and continuously learn from new challenges.
 
-- 🔭 I’m currently working on **Deco Design Website**
+Currently, I am working on enhancing my skills in **Java programming** and exploring cloud technologies, including **AWS**, to build reliable and scalable cloud-based solutions. Additionally, I actively seek opportunities to contribute to **open-source projects** and engage in collaborative development initiatives.
 
-- 🌱 I’m currently learning **Java Programming Language**
+When I’m not coding, I enjoy exploring emerging tech trends, refining my problem-solving skills, and pursuing personal projects that push my creative boundaries.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **manmeetsingh28603@gmail.com**
-
-- ⚡ Fun fact **I play games and listen to music very often.**
-
+Feel free to reach out if you’re looking to collaborate or discuss innovative software development ideas!
 
 ## 🚀 Languages I have Used:
 
@@ -38,38 +32,51 @@
     <a href="https://github.com/ManmeetSingh28"> <img src="https://img.icons8.com/fluency-systems-filled/48/undefined/github.png"/> </a>
 </p>
 
-<!-- <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p> -->
+## 📝 My Projects
 
-<!-- ## 📊 My Github Stats
+### 1. **Deco Design**
+- **Category**: Web Development
+- **Description**: Developed a web application to showcase a variety of interior design options for corporate and commercial buildings, integrating an API and implementing user authentication.
+- **Technologies**: Django, HTML, CSS, JavaScript
 
-  <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+### 2. **Password-less Authentication System**
+- **Category**: Applications
+- **Description**: Built a secure, password-less authentication system using Python (Tkinter), MySQL, and Twilio. Integrated facial recognition for enhanced security.
+- **Technologies**: Python (Tkinter), MySQL, Twilio API
 
+### 3. **Study Buddy App**
+- **Category**: Web Development
+- **Description**: Created a specialized app for VIT students, integrating an AI feature that consolidates responses from multiple AI platforms, along with an inbuilt PDF reader and MCQ generator.
+- **Technologies**: React, Node.js
 
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/> -->
+### 4. **GestureSpeakAI**
+- **Category**: Applications
+- **Description**: Developed an AI-based hands-free communication tool for people with physical limitations, using gesture recognition, language processing, and speech synthesis.
+- **Technologies**: Python, Machine Learning, Speech Synthesis
 
 ## Connect with me:
+
 <p align="left">
 <a href = "https://www.linkedin.com/in/manmeet-singh-985834150/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-<!-- ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
- -->
+## 📚 Education
+
+- **B.Tech in Computer Science** – VIT Chennai, Expected Graduation: 2025
+- **12th Grade** – 77.2%, [Year of Completion]
+- **10th Grade** – 77.5%, [Year of Completion]
+
+## 📚 Skills
+
+- **Languages**: Python, Java, C, C++, JavaScript
+- **Frameworks**: Django, React
+- **Database**: MySQL
+- **Cloud**: AWS (Certified)
+- **Other Skills**: Git, GitHub, Machine Learning, AI
+
+## 🚀 GitHub Stats:
+
+[![Manmeet Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManmeetSingh28&show_icons=true&count_private=true&theme=react)](https://github.com/ManmeetSingh28)
+
+[![Manmeet Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManmeetSingh28&langs_count=8&count_private=true&layout=compact&theme=react)](https://github.com/ManmeetSingh28)
