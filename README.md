@@ -61,12 +61,6 @@ Feel free to reach out if you’re looking to collaborate or discuss innovative 
 <a href = "https://www.instagram.com"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-## 📚 Education
-
-- **B.Tech in Computer Science** – VIT Chennai, Expected Graduation: 2025
-- **12th Grade** – 77.2%, [Year of Completion]
-- **10th Grade** – 77.5%, [Year of Completion]
-
 ## 📚 Skills
 
 - **Languages**: Python, Java, C, C++, JavaScript
