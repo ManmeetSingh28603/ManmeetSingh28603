@@ -74,9 +74,3 @@ Feel free to reach out if you’re looking to collaborate or discuss innovative 
 - **Database**: MySQL
 - **Cloud**: AWS (Certified)
 - **Other Skills**: Git, GitHub, Machine Learning, AI
-
-## 🚀 GitHub Stats:
-
-[![Manmeet Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManmeetSingh28&show_icons=true&count_private=true&theme=react)](https://github.com/ManmeetSingh28)
-
-[![Manmeet Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManmeetSingh28&langs_count=8&count_private=true&layout=compact&theme=react)](https://github.com/ManmeetSingh28)
